@@ -24,7 +24,10 @@ public class Playground{
 
         Shipyard1 ship = new Shipyard1();
         ship.loadMaterials(list);
-        System.out.println(ship.materialList);
+        System.out.println(ship.copper);
+        System.out.println(ship.iron);
+        System.out.println(ship.steel);
+
 
 
 
